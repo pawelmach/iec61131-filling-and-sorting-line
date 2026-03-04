@@ -1,0 +1,44 @@
+# =========================
+# CODESYS Build / Temp
+# =========================
+
+*.compileinfo
+*.project~
+*.backup
+*.bak
+*.tmp
+*.log
+*.cache
+*.precompilecache
+*.opt
+
+# Compiled libraries
+*.compiled-library
+
+# Application build folders
+*/Application/*
+*/_Boot/*
+*/_Download/*
+
+# Visualization cache
+*.visu
+
+# Device description cache
+*.deviceinfo
+
+# =========================
+# IDE / OS noise
+# =========================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Mac
+.DS_Store
