@@ -138,6 +138,9 @@ flowchart TD
 ### Diverter Controller
 ![DIV](./docs/DIV.png)
 
+### Project Structure
+![STRUCT](./docs/STRUCT.png)
+
 ---
 
 ## Purpose
